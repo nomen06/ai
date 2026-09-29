@@ -95,4 +95,4 @@ if __name__ == "__main__":
         print("Section  Time  Lab")
         for v in VARS:
             t, lab = assignment[v]
-            print(f"{v:<8} {t:<5} L{lab}").
+            print(f"{v:<8} {t:<5} L{lab}")
